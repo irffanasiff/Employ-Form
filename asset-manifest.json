@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Employ-Form/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Employ-Form/static/js/main.f7742911.chunk.js",
+    "main.js.map": "/Employ-Form/static/js/main.f7742911.chunk.js.map",
+    "runtime-main.js": "/Employ-Form/static/js/runtime-main.3a507cae.js",
+    "runtime-main.js.map": "/Employ-Form/static/js/runtime-main.3a507cae.js.map",
+    "static/js/2.6e46b891.chunk.js": "/Employ-Form/static/js/2.6e46b891.chunk.js",
+    "static/js/2.6e46b891.chunk.js.map": "/Employ-Form/static/js/2.6e46b891.chunk.js.map",
+    "index.html": "/Employ-Form/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Employ-Form/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6e46b891.chunk.js.LICENSE.txt": "/Employ-Form/static/js/2.6e46b891.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a507cae.js",
+    "static/js/2.6e46b891.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f7742911.chunk.js"
+  ]
+}

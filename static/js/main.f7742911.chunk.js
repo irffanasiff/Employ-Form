@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-form"]=this["webpackJsonpreact-form"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),s=c(3),o=c.n(s),a=(c(8),c(0));var i=function(){return Object(a.jsx)("div",{className:"App",children:"App"})};o.a.render(Object(a.jsx)(r.a.StrictMode,{children:Object(a.jsx)(i,{})}),document.getElementById("root"))},8:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.f7742911.chunk.js.map
