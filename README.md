@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# React Employ App
 
 Simple React App where You can Add Users and will show an popup error if input is invalid
 
-<img src="./project.gif" style="height: 150px">
+<img src="./project.gif" style="height: 550px">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
