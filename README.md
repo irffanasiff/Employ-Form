@@ -2,7 +2,7 @@
 
 Simple React App where You can Add Users and will show an popup error if input is invalid
 
-<img src="./image1.png" style="height: 150px"><img src="./image2.png" style="height: 150px"><img src="./image4.png" style="height: 150px">
+<img src="./project.gif" style="height: 150px">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
