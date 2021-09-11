@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Employ-Form/build/index.html/static/css/main.b0e33340.chunk.css",
-    "main.js": "/Employ-Form/build/index.html/static/js/main.324d9b29.chunk.js",
-    "main.js.map": "/Employ-Form/build/index.html/static/js/main.324d9b29.chunk.js.map",
-    "runtime-main.js": "/Employ-Form/build/index.html/static/js/runtime-main.5748fac4.js",
-    "runtime-main.js.map": "/Employ-Form/build/index.html/static/js/runtime-main.5748fac4.js.map",
-    "static/js/2.8a777b5c.chunk.js": "/Employ-Form/build/index.html/static/js/2.8a777b5c.chunk.js",
-    "static/js/2.8a777b5c.chunk.js.map": "/Employ-Form/build/index.html/static/js/2.8a777b5c.chunk.js.map",
-    "index.html": "/Employ-Form/build/index.html/index.html",
-    "static/css/main.b0e33340.chunk.css.map": "/Employ-Form/build/index.html/static/css/main.b0e33340.chunk.css.map",
-    "static/js/2.8a777b5c.chunk.js.LICENSE.txt": "/Employ-Form/build/index.html/static/js/2.8a777b5c.chunk.js.LICENSE.txt"
+    "main.css": "/Employ-Form/build/static/css/main.b0e33340.chunk.css",
+    "main.js": "/Employ-Form/build/static/js/main.324d9b29.chunk.js",
+    "main.js.map": "/Employ-Form/build/static/js/main.324d9b29.chunk.js.map",
+    "runtime-main.js": "/Employ-Form/build/static/js/runtime-main.0cb62288.js",
+    "runtime-main.js.map": "/Employ-Form/build/static/js/runtime-main.0cb62288.js.map",
+    "static/js/2.8a777b5c.chunk.js": "/Employ-Form/build/static/js/2.8a777b5c.chunk.js",
+    "static/js/2.8a777b5c.chunk.js.map": "/Employ-Form/build/static/js/2.8a777b5c.chunk.js.map",
+    "index.html": "/Employ-Form/build/index.html",
+    "static/css/main.b0e33340.chunk.css.map": "/Employ-Form/build/static/css/main.b0e33340.chunk.css.map",
+    "static/js/2.8a777b5c.chunk.js.LICENSE.txt": "/Employ-Form/build/static/js/2.8a777b5c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5748fac4.js",
+    "static/js/runtime-main.0cb62288.js",
     "static/js/2.8a777b5c.chunk.js",
     "static/css/main.b0e33340.chunk.css",
     "static/js/main.324d9b29.chunk.js"
